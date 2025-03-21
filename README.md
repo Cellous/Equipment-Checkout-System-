@@ -55,4 +55,4 @@ Clone the Repository
 # Contact & Portfolio
 🔗 GitHub Repo: Equipment-Checkout-System
 🌍 Portfolio Websithttps://www.searcytechinnovations.com/
-📧 Email: marcelloussearcy@yahoo.com
+📧 Email: info@searcytechinnovations.com
