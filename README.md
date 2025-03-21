@@ -1,7 +1,7 @@
 # Introduction Equipment Checkout System
     Central Warehouse Shipping and Receiving Application
 
-#Overview
+# Overview
 The Equipment Checkout System is a warehouse management tool designed to streamline the tracking, shipping, and receiving of equipment in an organization. This application ensures efficient inventory control by allowing users to check out and return equipment with accurate logging.
 
 # Key Features
